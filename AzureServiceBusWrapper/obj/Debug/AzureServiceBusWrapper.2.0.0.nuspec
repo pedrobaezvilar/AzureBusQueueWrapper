@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AzureServiceBusWrapper</id>
+    <version>2.0.0</version>
+    <authors>Pedro Baez</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Azure bus queue wrapper</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Azure.Messaging.ServiceBus" version="7.3.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\pedro\source\repos\AzureServiceBusWrapper\AzureServiceBusWrapper\bin\Debug\netstandard2.0\AzureServiceBusWrapper.dll" target="lib\netstandard2.0\AzureServiceBusWrapper.dll" />
+  </files>
+</package>

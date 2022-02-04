@@ -1,0 +1,9 @@
+C:\Users\pedro\source\repos\AzureServiceBusWrapper\AzureServiceBusWrapper\bin\Debug\netstandard2.0\AzureServiceBusWrapper.deps.json
+C:\Users\pedro\source\repos\AzureServiceBusWrapper\AzureServiceBusWrapper\bin\Debug\netstandard2.0\AzureServiceBusWrapper.dll
+C:\Users\pedro\source\repos\AzureServiceBusWrapper\AzureServiceBusWrapper\bin\Debug\netstandard2.0\AzureServiceBusWrapper.pdb
+C:\Users\pedro\source\repos\AzureServiceBusWrapper\AzureServiceBusWrapper\obj\Debug\netstandard2.0\AzureServiceBusWrapper.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\AzureServiceBusWrapper\AzureServiceBusWrapper\obj\Debug\netstandard2.0\AzureServiceBusWrapper.AssemblyInfo.cs
+C:\Users\pedro\source\repos\AzureServiceBusWrapper\AzureServiceBusWrapper\obj\Debug\netstandard2.0\AzureServiceBusWrapper.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\AzureServiceBusWrapper\AzureServiceBusWrapper\obj\Debug\netstandard2.0\AzureServiceBusWrapper.dll
+C:\Users\pedro\source\repos\AzureServiceBusWrapper\AzureServiceBusWrapper\obj\Debug\netstandard2.0\AzureServiceBusWrapper.pdb
+C:\Users\pedro\source\repos\AzureServiceBusWrapper\AzureServiceBusWrapper\obj\Debug\netstandard2.0\AzureServiceBusWrapper.csprojAssemblyReference.cache

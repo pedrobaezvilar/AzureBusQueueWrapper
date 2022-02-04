@@ -1,0 +1,4 @@
+C:\Users\pedro\source\repos\AzureServiceBusWrapper\AzureServiceBusWrapper\obj\Debug\net45\AzureServiceBusWrapper.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\AzureServiceBusWrapper\AzureServiceBusWrapper\obj\Debug\net45\AzureServiceBusWrapper.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\AzureServiceBusWrapper\AzureServiceBusWrapper\obj\Debug\net45\AzureServiceBusWrapper.AssemblyInfo.cs
+C:\Users\pedro\source\repos\AzureServiceBusWrapper\AzureServiceBusWrapper\obj\Debug\net45\AzureServiceBusWrapper.csproj.CoreCompileInputs.cache
